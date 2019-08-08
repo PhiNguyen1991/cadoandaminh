@@ -8,8 +8,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hello there, this is my first time I work with AWS.
         </p>
+        <p>Amazon Services are wonderfull</p>
         <a
           className="App-link"
           href="https://reactjs.org"
